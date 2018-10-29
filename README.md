@@ -1,2 +1,2 @@
-##App description
-*This is a recyclerview example
+## App description
+* This is a recyclerview example
